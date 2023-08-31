@@ -1,5 +1,5 @@
 ![Screenshot 2023-08-31 161100](https://github.com/guialbquerque/Gatito-Petshop/assets/67128202/445c2824-2a06-443a-9f45-944122021fe0)
-
+[Link para interação com o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdhMjg0YjQtYjdhMC00Nzg1LWI5YmUtZDc0MjA1MDZkZGFiIiwidCI6ImZiMjNiNmY1LWI4NzgtNDcwYy1iMTBlLWNhNTZiNTlhNjVjNSJ9)
 # Análise de dados **Gatito Petshop**
 
 #### Análise de dados realizada com Power BI referente as vendas no período de 2020-2022 do Gatito PetShop. Para análise, foi requerido os seguinte indicadores:
