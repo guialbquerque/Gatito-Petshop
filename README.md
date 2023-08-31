@@ -2,7 +2,7 @@
 [Link para interação com o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdhMjg0YjQtYjdhMC00Nzg1LWI5YmUtZDc0MjA1MDZkZGFiIiwidCI6ImZiMjNiNmY1LWI4NzgtNDcwYy1iMTBlLWNhNTZiNTlhNjVjNSJ9)
 # Análise de dados **Gatito Petshop**
 
-#### Análise de dados realizada com Power BI referente as vendas no período de 2020-2022 do Gatito PetShop. Para análise, foi requerido os seguinte indicadores:
+#### Análise de dados realizada com Power BI referente as vendas no período de 2020-2022 do Gatito PetShop. Para análise, foi requerido os seguintes indicadores:
 #### 1. Qual o faturamento total;
 #### 2. Média de pets atendidos (gato e cachorro);
 #### 3. Qual a quantidade total de produtos vendidos;
