@@ -10,4 +10,4 @@
 #### 5. Faturamento total ao longo dos anos, meses;
 #### 6. Faturamento total por sexo;
 
-#### Com os dados mostrados no Dashboard, fica fácil definir quais bairros é possível investir para abrir um novo Petshop, quais produtos são os mais vendidos, qual gênero compra mais, e asim traçar metas e objetivos alinhados com que os dados apresentam a fim de continuar aumentando o faturamento.
+#### Com os dados mostrados no Dashboard, fica fácil definir quais bairros é possível investir para abrir um novo Petshop, quais produtos são os mais vendidos, qual gênero compra mais, e assim traçar metas e objetivos alinhados com que os dados apresentam a fim de continuar aumentando o faturamento.
